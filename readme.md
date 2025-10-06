@@ -13,7 +13,7 @@ Skript, který ná základě odkazu z : odkazu(https://www.volby.cz/pls/ps2017ns
 
 - Python
 
-- ```pip install requirements.txt```
+- ```pip install -r requirements. txt ```
 
 
 

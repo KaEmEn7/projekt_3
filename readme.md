@@ -11,9 +11,9 @@ Skript, který ná základě odkazu z : odkazu(https://www.volby.cz/pls/ps2017ns
 
 2. **Požadavky**: Co je potřeba nainstalovat.
 
-- 1. Python
+- Python
 
-- 2```pip install requirements.txt```
+- ```pip install requirements.txt```
 
 
 

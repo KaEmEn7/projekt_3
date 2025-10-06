@@ -13,7 +13,9 @@ Skript, který ná základě odkazu z : odkazu(https://www.volby.cz/pls/ps2017ns
 
 - 1. Python
 
-- 2```requirements.txt```
+- 2```pip install requirements.txt```
+
+
 
 
 3. **Použití**: Jak spustit program s příkladem.

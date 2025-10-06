@@ -31,4 +31,3 @@ code,location,registered,envelopes,valid,Občanská demokratická strana,Řád n
 589276,Bílovice-Lutotín,431,279,275,13,0,0,32,0,8,40,1,0,4,0,0,30,0,3,83,0,0,22,0,0,0,1,38,0
 589284,Biskupice,238,132,131,14,0,0,9,0,5,24,2,0,1,0,0,10,2,0,34,0,0,10,0,0,0,0,19,0
 ```
-5. **Kamil Mach**: Vaše jméno a kontakt.

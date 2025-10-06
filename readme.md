@@ -13,7 +13,7 @@ Skript, který ná základě odkazu z : odkazu(https://www.volby.cz/pls/ps2017ns
 
 - nainstalovaný Python
 
-v příkazovém řádku spustit v rootu projektu (tam kde je requirements.txt)
+v příkazovém řádku spustit v rootu projektu (tam kde je requirements.txt) příkaz:
 
 - ```pip install -r requirements. txt ```
 
